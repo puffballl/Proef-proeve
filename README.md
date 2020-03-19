@@ -1,5 +1,5 @@
 # Proef-proeve
 
-In deze repo komt alle code gerelateerde files en info
+De benodigde bestanden voor de proef proeve
 
 Dit is nog alleen voor de proef PVB
